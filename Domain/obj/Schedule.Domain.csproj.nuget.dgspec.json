@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROOT1\\Desktop\\Perfeito\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj": {}
+    "C:\\Users\\ROOT1\\Desktop\\Nova pasta\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROOT1\\Desktop\\Perfeito\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj": {
+    "C:\\Users\\ROOT1\\Desktop\\Nova pasta\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROOT1\\Desktop\\Perfeito\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ROOT1\\Desktop\\Nova pasta\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj",
         "projectName": "Schedule.Domain",
-        "projectPath": "C:\\Users\\ROOT1\\Desktop\\Perfeito\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj",
+        "projectPath": "C:\\Users\\ROOT1\\Desktop\\Nova pasta\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj",
         "packagesPath": "C:\\Users\\ROOT1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROOT1\\Desktop\\Perfeito\\DotNet6-Worker-RabbitMQ-Example\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ROOT1\\Desktop\\Nova pasta\\DotNet6-Worker-RabbitMQ-Example\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROOT1\\AppData\\Roaming\\NuGet\\NuGet.Config",

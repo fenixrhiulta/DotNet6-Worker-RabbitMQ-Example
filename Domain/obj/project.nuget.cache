@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NgBHh1phIRTYBywkPrFrhVO0K85a7i7kjzVokVvpWiMizcZrvpw4QdBkb/onYo/x4JBFSpgYb5bwWPX3LapGxg==",
+  "dgSpecHash": "e5ioHRgbNxs26Uoz491aIDUTf9UZiF6KR5syqtTxTJMDN/DfkWx/QgddmLlXuKdHOBYXxem2uYEJZC+2XutS8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ROOT1\\Desktop\\Perfeito\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ROOT1\\Desktop\\Nova pasta\\DotNet6-Worker-RabbitMQ-Example\\Domain\\Schedule.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ROOT1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\ROOT1\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
